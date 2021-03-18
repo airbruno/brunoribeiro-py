@@ -42,4 +42,4 @@
 
 
 [instagram]: https://instagram.com/brunobrib
-[linkedin]: https://linkedin.com/in/bruno2195
+[linkedin]: https://linkedin.com/in/brunoribeiro-py
