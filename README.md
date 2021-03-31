@@ -4,11 +4,11 @@
 
 ## I'm a Developer!!
 
-- 🔭 I'm currently working on the Node.js Rocketseat Ignite Bootcamp
-- 💻 Also, I'm learning React and Next.js, check out my GitHub repos
-- 👯 I’m looking to collaborate with other open source projects
-- 🥅 2021 Goals: Learn Node.js & React stack
-- ✈️ Fun fact: I love airplanes
+- 🔭 I'm currently working on the Node.js Rocketseat Ignite Bootcamp.
+- 💻 Also, I'm learning data science and analisys.
+- 👯 I’m looking to collaborate with other open source projects.
+- 🥅 2021 Goals: Get good at Node.js.
+- ✈️ Fun fact: I love airplanes.
 
 ### Connect with me:
 
